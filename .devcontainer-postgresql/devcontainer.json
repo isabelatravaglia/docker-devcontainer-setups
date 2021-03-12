@@ -22,7 +22,8 @@
     "dbaeumer.vscode-eslint",
     "rayhanw.erb-helpers",
     "misogi.ruby-rubocop",
-    "sdras.night-owl"
+    "sdras.night-owl",
+    "CoenraadS.bracket-pair-colorizer"
   ],
 	
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
